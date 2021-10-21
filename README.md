@@ -1,2 +1,2 @@
-# Random..
+# Random function ..
 Assignment: Intermediate Functions I 
